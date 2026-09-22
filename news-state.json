@@ -1,3 +1,12 @@
 {
-  "seen": {}
+  "seen": {
+    "eviltokens-takedown": "2026-09-22",
+    "google-gdpr-location-fine": "2026-09-22",
+    "shinyhunters-fbi-claim": "2026-09-22",
+    "brevo-clickfix-supply-chain": "2026-09-22",
+    "bigcommerce-ribon-breach": "2026-09-22",
+    "dprk-waterplum-advisory": "2026-09-22",
+    "closedquorum-ai-malware": "2026-09-22",
+    "defender-bigdiskbuster-zeroday": "2026-09-22"
+  }
 }
