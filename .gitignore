@@ -1,0 +1,7 @@
+# Working files the routines download while building a brief.
+# They belong in /tmp; this guards against a run writing them into the repo.
+kev*.json
+new.json
+crit.json
+epss*.json
+*.tmp
