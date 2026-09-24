@@ -1,3 +1,13 @@
 {
-  "seen": {}
+  "seen": {
+    "remcontrol-android-banking-malware": "2026-09-24",
+    "ai-agent-card-skimming-campaign": "2026-09-24",
+    "eu-auditors-cyber-info-sharing": "2026-09-24",
+    "shinyhunters-fbi-jobs-breach-claim": "2026-09-24",
+    "edge-device-zero-days-kev": "2026-09-24",
+    "eviltokens-phishing-service-takedown": "2026-09-24",
+    "gitlab-issue-email-token-risk": "2026-09-24",
+    "ransomware-record-august-2026": "2026-09-24",
+    "ryuk-operator-sentenced": "2026-09-24"
+  }
 }
