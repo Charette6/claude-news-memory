@@ -1,3 +1,10 @@
 {
-  "seen": {}
+  "seen": {
+    "kiteworks-shutdown-warning": "2026-09-27",
+    "shinyhunters-peoplesoft-waf-bypass": "2026-09-27",
+    "lunex-stealer-amd-driver": "2026-09-27",
+    "openai-agents-gov-websites": "2026-09-27",
+    "x47c-botnet-ai-api-drain": "2026-09-27",
+    "exploit-in-forum-research": "2026-09-27"
+  }
 }
