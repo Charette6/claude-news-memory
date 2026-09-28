@@ -1,3 +1,8 @@
 {
-  "seen": {}
+  "seen": {
+    "citrix-netscaler-zero-days": "2026-09-28",
+    "sharepoint-cve-exploited": "2026-09-28",
+    "cloudflare-containers-cross-tenant": "2026-09-28",
+    "rydox-admin-guilty-plea": "2026-09-28"
+  }
 }
