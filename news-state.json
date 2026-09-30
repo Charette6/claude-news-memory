@@ -1,3 +1,14 @@
 {
-  "seen": {}
+  "seen": {
+    "citrix-netscaler-zero-day-banks": "2026-09-30",
+    "ai-self-policing-accord": "2026-09-30",
+    "pentagon-dmdc-breach": "2026-09-30",
+    "french-tax-data-theft": "2026-09-30",
+    "japan-railway-breaches": "2026-09-30",
+    "shinyhunters-arrest-fbi": "2026-09-30",
+    "needymantis-malware": "2026-09-30",
+    "apple-coregraphics-zero-day": "2026-09-30",
+    "kiteworks-emergency-patch": "2026-09-30",
+    "clickfix-custom-gpts": "2026-09-30"
+  }
 }
