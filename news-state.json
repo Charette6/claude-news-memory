@@ -1,3 +1,14 @@
 {
-  "seen": {}
+  "seen": {
+    "bitget-crypto-exchange-breach": "2026-10-01",
+    "netscaler-zero-day-finance-targeting": "2026-10-01",
+    "atm-jackpotting-ofac-sanctions": "2026-10-01",
+    "ftc-ai-probe-openai-anthropic": "2026-10-01",
+    "atns-south-africa-atc": "2026-10-01",
+    "chatgpt-custom-gpt-clickfix-rat": "2026-10-01",
+    "star-blizzard-redflick": "2026-10-01",
+    "google-ai-vulnerability-surge": "2026-10-01",
+    "ai-coding-agents-github-leak": "2026-10-01",
+    "biocatch-employment-scams": "2026-10-01"
+  }
 }
