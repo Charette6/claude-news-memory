@@ -1,3 +1,15 @@
 {
-  "seen": {}
+  "seen": {
+    "bitget-zero-day-theft": "2026-10-02",
+    "metamask-infrastructure-incident": "2026-10-02",
+    "fakturownia-breach": "2026-10-02",
+    "treasury-ploutus-sanctions": "2026-10-02",
+    "pentagon-dmdc-breach": "2026-10-02",
+    "divd-ai-agent-breach": "2026-10-02",
+    "killsec-takedown": "2026-10-02",
+    "ta419-ai-phishing": "2026-10-02",
+    "github-exposed-secrets": "2026-10-02",
+    "gemini-4-argon": "2026-10-02",
+    "cisco-sdwan-kev": "2026-10-02"
+  }
 }
