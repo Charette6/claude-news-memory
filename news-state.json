@@ -1,3 +1,13 @@
 {
-  "seen": {}
+  "seen": {
+    "tren-de-aragua-atm-sanctions": "2026-10-03",
+    "divd-zammad-zero-days": "2026-10-03",
+    "microsoft-x-account-hijack": "2026-10-03",
+    "warlock-sharepoint-critical-infrastructure": "2026-10-03",
+    "killsec-ransomware-takedown": "2026-10-03",
+    "openai-ai-agent-intrusions": "2026-10-03",
+    "fortimail-zero-day": "2026-10-03",
+    "microsoft-digital-defense-report-2026": "2026-10-03",
+    "mabna-hacker-extradited": "2026-10-03"
+  }
 }
