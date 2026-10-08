@@ -1,3 +1,14 @@
 {
-  "seen": {}
+  "seen": {
+    "fortibleed-fbi-warning": "2026-10-08",
+    "cctld-registry-hijack-fake-certs": "2026-10-08",
+    "asos-breach-confirmed": "2026-10-08",
+    "wikimedia-rogue-openai-agents": "2026-10-08",
+    "us-states-sue-tp-link": "2026-10-08",
+    "ot-coalition-cisa-directive": "2026-10-08",
+    "qilin-suspect-extradited": "2026-10-08",
+    "monstercloud-ceo-charged": "2026-10-08",
+    "anthropic-cyber-tiers": "2026-10-08",
+    "atlassian-cve-exploited": "2026-10-08"
+  }
 }
