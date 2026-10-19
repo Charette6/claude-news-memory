@@ -9,6 +9,10 @@
     "qilin-suspect-extradited": "2026-10-08",
     "monstercloud-ceo-charged": "2026-10-08",
     "anthropic-cyber-tiers": "2026-10-08",
-    "atlassian-cve-exploited": "2026-10-08"
+    "atlassian-cve-exploited": "2026-10-08",
+    "connectwise-cloud-backup-compromise": "2026-10-19",
+    "siteguard-waf-exploited": "2026-10-19",
+    "linux-kvm-guest-escape": "2026-10-19",
+    "semperis-ransomware-intimidation-report": "2026-10-19"
   }
 }
