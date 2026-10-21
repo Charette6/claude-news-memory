@@ -9,6 +9,18 @@
     "qilin-suspect-extradited": "2026-10-08",
     "monstercloud-ceo-charged": "2026-10-08",
     "anthropic-cyber-tiers": "2026-10-08",
-    "atlassian-cve-exploited": "2026-10-08"
+    "atlassian-cve-exploited": "2026-10-08",
+    "revolut-gcloud-outage": "2026-10-21",
+    "fca-ai-incident-reporting": "2026-10-21",
+    "23andme-california-settlement": "2026-10-21",
+    "emudhra-ca-keys-compromised": "2026-10-21",
+    "nikkei-third-breach": "2026-10-21",
+    "connectwise-cloud-backup-incident": "2026-10-21",
+    "panos-globalprotect-ransomware": "2026-10-21",
+    "safepay-fbi-advisory": "2026-10-21",
+    "cairn-ai-agent-attacks": "2026-10-21",
+    "microsoft-ai-agent-containment": "2026-10-21",
+    "dhs-deepseek-ban": "2026-10-21",
+    "talos-vulnerability-surge": "2026-10-21"
   }
 }
