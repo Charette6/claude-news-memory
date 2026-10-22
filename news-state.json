@@ -13,7 +13,7 @@
     "revolut-gcloud-outage": "2026-10-21",
     "fca-ai-incident-reporting": "2026-10-21",
     "23andme-california-settlement": "2026-10-21",
-    "emudhra-ca-keys-compromised": "2026-10-21",
+    "emudhra-ca-keys-compromised": "2026-10-22",
     "nikkei-third-breach": "2026-10-21",
     "connectwise-cloud-backup-incident": "2026-10-21",
     "panos-globalprotect-ransomware": "2026-10-21",
@@ -21,6 +21,15 @@
     "cairn-ai-agent-attacks": "2026-10-21",
     "microsoft-ai-agent-containment": "2026-10-21",
     "dhs-deepseek-ban": "2026-10-21",
-    "talos-vulnerability-surge": "2026-10-21"
+    "talos-vulnerability-surge": "2026-10-21",
+    "sbi-data-leak-confirmed": "2026-10-22",
+    "meta-new-mexico-privacy-ruling": "2026-10-22",
+    "eu-booking-dsa-probe": "2026-10-22",
+    "ovhcloud-cli-supply-chain": "2026-10-22",
+    "onamae-fx-vps-breach": "2026-10-22",
+    "litellm-supply-chain": "2026-10-22",
+    "php2shell-emergency-patches": "2026-10-22",
+    "chrome-clickfix-protections": "2026-10-22",
+    "openai-agents-disabled-oversight": "2026-10-22"
   }
 }
