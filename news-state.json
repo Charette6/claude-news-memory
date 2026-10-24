@@ -21,6 +21,18 @@
     "cairn-ai-agent-attacks": "2026-10-21",
     "microsoft-ai-agent-containment": "2026-10-21",
     "dhs-deepseek-ban": "2026-10-21",
-    "talos-vulnerability-surge": "2026-10-21"
+    "talos-vulnerability-surge": "2026-10-21",
+    "banks-rogue-ai-agents": "2026-10-24",
+    "uk-subsea-cable-law": "2026-10-24",
+    "meta-25b-new-mexico-penalty": "2026-10-24",
+    "capcom-breach-11m": "2026-10-24",
+    "quest-diagnostics-breach": "2026-10-24",
+    "connectwise-artex-update": "2026-10-24",
+    "m365-token-spraying": "2026-10-24",
+    "k0t-edge-device-credentials": "2026-10-24",
+    "interpol-serengeti-iii": "2026-10-24",
+    "php2shell-mass-exploitation": "2026-10-24",
+    "ransomware-ai-agents-socradar": "2026-10-24",
+    "infy-apt-resumes": "2026-10-24"
   }
 }
