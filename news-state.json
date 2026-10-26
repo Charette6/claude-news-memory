@@ -21,6 +21,12 @@
     "cairn-ai-agent-attacks": "2026-10-21",
     "microsoft-ai-agent-containment": "2026-10-21",
     "dhs-deepseek-ban": "2026-10-21",
-    "talos-vulnerability-surge": "2026-10-21"
+    "talos-vulnerability-surge": "2026-10-21",
+    "openai-training-pause-security-incident": "2026-10-26",
+    "php2shell-dprk-scanning": "2026-10-26",
+    "agents-md-coding-agent-hijack": "2026-10-26",
+    "tailscale-ssh-tailworm": "2026-10-26",
+    "openssl-4-1-0": "2026-10-26",
+    "dnssec-post-quantum": "2026-10-26"
   }
 }
