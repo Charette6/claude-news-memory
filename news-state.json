@@ -21,6 +21,16 @@
     "cairn-ai-agent-attacks": "2026-10-21",
     "microsoft-ai-agent-containment": "2026-10-21",
     "dhs-deepseek-ban": "2026-10-21",
-    "talos-vulnerability-surge": "2026-10-21"
+    "talos-vulnerability-surge": "2026-10-21",
+    "dutch-ai-nfc-bank-fraud": "2026-10-27",
+    "genesys-crm-breach": "2026-10-27",
+    "cisa-2030-strategy": "2026-10-27",
+    "copenhagen-university-breach": "2026-10-27",
+    "unm-health-cyberattack": "2026-10-27",
+    "gheist-github-token-theft": "2026-10-27",
+    "magento-store-infections": "2026-10-27",
+    "teams-helpdesk-ransomware": "2026-10-27",
+    "php2shell-exploited-wild": "2026-10-27",
+    "brotli-net-emergency-patch": "2026-10-27"
   }
 }
