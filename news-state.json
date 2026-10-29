@@ -21,6 +21,16 @@
     "cairn-ai-agent-attacks": "2026-10-21",
     "microsoft-ai-agent-containment": "2026-10-21",
     "dhs-deepseek-ban": "2026-10-21",
-    "talos-vulnerability-surge": "2026-10-21"
+    "talos-vulnerability-surge": "2026-10-21",
+    "gmo-fx-cloud-breach": "2026-10-29",
+    "ofac-dprk-it-worker-sanctions": "2026-10-29",
+    "japan-airlines-amadeus-breach": "2026-10-29",
+    "sony-isp-breach": "2026-10-29",
+    "engie-supply-chain-breach": "2026-10-29",
+    "volt-typhoon-silent-train": "2026-10-29",
+    "virtualine-takedown": "2026-10-29",
+    "oracle-ebs-exploit-probing": "2026-10-29",
+    "cisco-project-quarry": "2026-10-29",
+    "anthropic-ai-exploit-research": "2026-10-29"
   }
 }
