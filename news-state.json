@@ -21,6 +21,16 @@
     "cairn-ai-agent-attacks": "2026-10-21",
     "microsoft-ai-agent-containment": "2026-10-21",
     "dhs-deepseek-ban": "2026-10-21",
-    "talos-vulnerability-surge": "2026-10-21"
+    "talos-vulnerability-surge": "2026-10-21",
+    "binance-6bn-theft": "2026-10-31",
+    "polymarket-debugbear-supply-chain": "2026-10-31",
+    "gchq-missing-storage-devices": "2026-10-31",
+    "florida-financial-aid-breach": "2026-10-31",
+    "vapor-panda-artex-campaign": "2026-10-31",
+    "talos-help-desk-vishing": "2026-10-31",
+    "php2shell-pan-firewalls-gov": "2026-10-31",
+    "trezor-hardware-implant": "2026-10-31",
+    "virtualine-fbi-seizure": "2026-10-31",
+    "gitlab-rce-kev": "2026-10-31"
   }
 }
